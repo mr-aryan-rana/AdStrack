@@ -14,5 +14,5 @@ This is a lightweight Flask API that allows you to manage app details — add, r
 
 1. **Clone the repo:**
    ```bash
-   git clone <your_repo_url>
-   cd app_api
+   git clone <https://github.com/mr-aryan-rana/AdStrack.git>
+   
