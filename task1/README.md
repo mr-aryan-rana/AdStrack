@@ -26,7 +26,7 @@ This is a simple backend API built using **Flask** and **SQLAlchemy**. The App T
 1. **Clone or Download the Repository**:
    - If using Git, run:
      ```bash
-     git clone <repo_url>
+     git clone https://github.com/mr-aryan-rana/AdStrack.git
      cd task1
      ```
 
