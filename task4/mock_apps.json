@@ -1,0 +1,23 @@
+[
+    {
+      "app_name": "MockAndroidApp",
+      "version": "1.0",
+      "description": "Device ID: 88349184923390, OS: Windows 11"
+    },
+    {
+      "app_name": "WeatherNow",
+      "version": "2.5",
+      "description": "Device ID: 99238128371299, OS: Android 13"
+    },
+    {
+      "app_name": "ChatSim",
+      "version": "3.1-beta",
+      "description": "Device ID: 55392118231102, OS: Android 12"
+    },
+    {
+      "app_name": "FileZap",
+      "version": "4.0",
+      "description": "Device ID: 33291827361784, OS: Android 10"
+    }
+  ]
+  
